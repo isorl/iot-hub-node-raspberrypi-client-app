@@ -1,6 +1,6 @@
 {
-  "simulatedData": false,
-  "interval": 2000,
+  "simulatedData": true,
+  "interval": 5000,
   "deviceId": "Raspberry Pi Node",
   "LEDPin": 5,
   "messageMax": 256,
