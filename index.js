@@ -22,5 +22,6 @@ var connectCallback = function (err) {
     }); 
   }
 };
+
 client.open(connectCallback);
 
